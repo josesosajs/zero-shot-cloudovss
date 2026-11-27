@@ -24,7 +24,7 @@
     </h4>
 </div>
 
-<img src="teaser.png" width="100%"/>
+<img src="latest-teaser.png" width="100%"/>
 Overview of zero-shot open-vocabulary semantic segmentation (OVSS) capabilities for cloud detection in Earth Observation imagery. Left: Representative satellite images with overlaid cloud and cloud-shadow segmentation predictions, illustrating diverse cloud conditions and scene characteristics. Right: Comparison of 12 OVSS models across six cloud detection datasets using cumulative Intersection-over-Union (cIoU) for binary cloud segmentation. The results highlight variability in segmentation performance across models and datasets.
 
 </div>
