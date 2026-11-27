@@ -5,7 +5,7 @@
 <h3></h3>
 
 <div>
-    <strong> Training-free OVSS benchmark for binary and multi-class cloud segmentation </strong>
+    <strong> Zero-shot open-vocabulary cloud segmentation benchmarking </strong>
 </div>
 
 <div>
