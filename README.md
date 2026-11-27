@@ -38,13 +38,10 @@ Coming soon...
 ## Citation
 
 ```
-@misc{sosa2026capabilitieslimitationszeroshotopenvocabulary,
-      title={On the Capabilities and Limitations of Zero-Shot Open-Vocabulary Cloud Segmentation}, 
-      author={Jose Sosa and Thomas Gillet and Rim Sleimi and Albert Abello},
-      year={2026},
-      eprint={2611.32625},
-      archivePrefix={arXiv},
-      primaryClass={cs.CV},
-      url={https://arxiv.org/abs/2611.32625}, 
+@article{sosa2026capabilities,
+  title={On the Capabilities and Limitations of Zero-Shot Open-Vocabulary Cloud Segmentation},
+  author={Sosa, Jose and Gillet, Thomas and Sleimi, Rim and Abello, Albert},
+  journal={arXiv preprint arXiv:2611.32625},
+  year={2026}
 }
 ```
